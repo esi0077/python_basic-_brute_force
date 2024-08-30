@@ -1,10 +1,9 @@
 # Basic Brute force
 
-## this python file helps you too find out how many attempts needed to find your password <br>
-## I added one password list that you can update by your self <br>
-# Note: if your password is in the list change it immediately <br>
-<br>
-<br>
+## this python file helps you too find out how many attempts needed to find your password 
+## I added one password list that you can update by your self 
+# Note: if your password is in the list change it immediately 
+
 
 # picture of the script 
 
