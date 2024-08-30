@@ -8,7 +8,7 @@
 
 # picture of the script 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="t4ZwPIQ"><a href="https://imgur.com/t4ZwPIQ">
+<img src="https://i.imgur.com/t4ZwPIQ.png">
 
 
 
